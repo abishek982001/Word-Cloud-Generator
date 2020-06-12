@@ -3,6 +3,6 @@ A simple [Word Cloud](https://wiki.q-researchsoftware.com/wiki/Word_Cloud) gener
 
 ## Requirements:
 * Jupyter Notebook
-* wordcloud library
-* fileupload library
-* ipywidgets library
+* wordcloud module
+* fileupload module
+* ipywidgets module
